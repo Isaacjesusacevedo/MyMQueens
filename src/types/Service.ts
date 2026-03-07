@@ -1,7 +1,6 @@
 export type ServiceCategory =
-  | 'corte'
-  | 'color'
-  | 'tratamiento'
+  | 'peluqueria'
+  | 'nail_art'
   | 'estetica'
   | 'combo'
 
