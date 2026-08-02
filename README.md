@@ -64,10 +64,6 @@ npm run dev
 # Build para producción
 npm run build
 ```
-<div align="center">
-© Isaac Acevedo — Desarrollador Web Junior
-Hecho con ❤️ y mucho ☕
-</div>
 
 🚧 Próximos pasos
 Estoy ampliando la aplicación hacia el desarrollo full-stack:
