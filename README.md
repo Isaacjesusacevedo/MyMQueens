@@ -4,10 +4,6 @@
 
 Desarrollada con Vue 3 + Vite + TypeScript. Permite a los clientes explorar servicios, seleccionar combinaciones y gestionar reservas de forma intuitiva.
 
-## 🌐 Demo en vivo
-
-👉 **[Ver aplicación](https://isaacjesusacevedo.github.io/MyMQueens/)**
-
 ---
 
 ## ✨ Funcionalidades
@@ -65,14 +61,18 @@ npm run dev
 npm run build
 ```
 
-🚧 Próximos pasos
+## 🌐 Demo en vivo
+
+👉 **[Ver aplicación](https://isaacjesusacevedo.github.io/MyMQueens/)**
+
+## 🚧 Próximos pasos
 Estoy ampliando la aplicación hacia el desarrollo full-stack:
 Backend con Node.js + Express — API REST para gestionar turnos, clientes y servicios
 Base de datos SQL Server — Persistencia de reservas, usuarios y disponibilidad horaria
 Autenticación con JWT — Login para clientes y administradores
 Panel de administración — Gestión de turnos, servicios y reportes
 
-📬 Contacto
+## 📬 Contacto
 | Canal         | Link                                                                                            |
 | ------------- | ----------------------------------------------------------------------------------------------- |
 | **Email**     | <isaac.acevedor1610@gmail.com>                                                                  |
