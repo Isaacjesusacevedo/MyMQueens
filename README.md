@@ -30,18 +30,18 @@ Desarrollada con Vue 3 + Vite + TypeScript. Permite a los clientes explorar serv
 ---
 
 ## 📂 Estructura del proyecto
-MyMQueens/
-index.html — Punto de entrada
-src/
-App.vue — Componente raíz
-components/ — Componentes reutilizables (Vue + TS)
-views/ — Vistas principales de la app
-assets/ — Imágenes, estilos globales
-public/ — Archivos estáticos
-package.json — Dependencias y scripts
-tsconfig.json — Configuración de TypeScript
-vite.config.ts — Configuración de Vite
-README.md — Documentación del proyecto
+- **MyMQueens/**
+  - `index.html` — Punto de entrada
+  - **src/**
+    - `App.vue` — Componente raíz
+    - **components/** — Componentes reutilizables (Vue + TS)
+    - **views/** — Vistas principales de la app
+    - **assets/** — Imágenes, estilos globales
+  - **public/** — Archivos estáticos
+  - `package.json` — Dependencias y scripts
+  - `tsconfig.json` — Configuración de TypeScript
+  - `vite.config.ts` — Configuración de Vite
+  - `README.md` — Documentación del proyecto
 
 ## 🚀 Cómo ejecutar localmente
 
@@ -69,22 +69,6 @@ LinkedIn: linkedin.com/in/isaac-acevedo-9a41a4282
 
 # Modo desarrollo (hot reload)
 npm run dev
-
-
----
-
-## 🎯 Cómo conectar MyMQueens con la oferta de JPH Lions
-
-| Lo que pide JPH Lions | Cómo lo demuestra MyMQueens |
-|-----------------------|----------------------------|
-| **JavaScript** | ✅ Vue 3 usa JavaScript/TypeScript extensivamente |
-| **Vue.js** | ✅ Es la tecnología principal del proyecto |
-| **Metodologías ágiles** | ✅ Podés decir que organizaste el desarrollo con sprints y Kanban |
-| **Trabajo en equipo** | ✅ Si fue para un cliente real, mencioná la comunicación con el dueño del negocio |
-| **Orientación a resultados** | ✅ Es una app funcional, deployada, que resuelve un problema real |
-| **Node.js / React / SQL** | 🚧 En desarrollo — mencionalo en la entrevista |
-
-
 
 # Build para producción
 npm run build
