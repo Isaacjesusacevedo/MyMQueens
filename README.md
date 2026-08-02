@@ -1,42 +1,32 @@
-# MYMQUEENS
+# MyMQueens
 
-This template should help get you started developing with Vue 3 in Vite.
+**Aplicación web para reserva de turnos en peluquería y nail art.**
 
-## Recommended IDE Setup
+Desarrollada con Vue 3 + Vite + TypeScript. Permite a los clientes explorar servicios, seleccionar combinaciones y gestionar reservas de forma intuitiva.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🌐 Demo en vivo
 
-## Recommended Browser Setup
+👉 **[Ver aplicación](https://isaacjesusacevedo.github.io/MyMQueens/)**
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Type Support for `.vue` Imports in TS
+## ✨ Funcionalidades
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- **Catálogo de servicios** — Peluquería (corte, barba, trenzas, alisado) y nail art (manicura, pedicura, kapping, soft gel, nail art)
+- **Combos y paquetes** — Combinaciones con descuento (Combo Reina, Novios, Quinceañera, Ejecutivo)
+- **Selección múltiple** — El usuario puede elegir uno o más servicios para su reserva
+- **Diseño responsive** — Adaptada a mobile, tablet y desktop
+- **Interfaz moderna** — UI limpia con Vue 3 Composition API
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🛠️ Tecnologías
 
-## Project Setup
+- **Vue 3** — Framework frontend con Composition API
+- **Vite** — Build tool rápido para desarrollo y producción
+- **TypeScript** — Tipado estático para código robusto
+- **HTML5 / CSS3** — Estructura semántica y estilos personalizados
 
-```sh
-npm install
-```
+---
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 📂 Estructura del proyecto
