@@ -35,26 +35,6 @@ Explorá servicios, armá combos personalizados y gestioná tus reservas de form
 
 Está construida con **Vue 3 + Vite + TypeScript**, priorizando una interfaz moderna, liviana y totalmente responsive.
 
-## 📸 Capturas de pantalla
-
-## 📸 Capturas de pantalla
-
-<p align="center">
-  <img src="Captura%20de%20pantalla%202026-08-02%20115446.png" width="80%" alt="Hero - MyMQueens" />
-</p>
-
-<p align="center">
-  <img src="Captura%20de%20pantalla%202026-08-02%20115518.png" width="80%" alt="Catálogo de servicios" />
-</p>
-
-<p align="center">
-  <img src="Captura%20de%20pantalla%202026-08-02%20115537.png" width="80%" alt="Horarios de atención" />
-</p>
-
-<p align="center">
-  <img src="Captura%20de%20pantalla%202026-08-02%20115556.png" width="80%" alt="Contacto y reservas" />
-</p>
-
 | Catálogo de servicios | Selección de combo |
 |:---:|:---:|
 | _agregar captura_ | _agregar captura_ |
