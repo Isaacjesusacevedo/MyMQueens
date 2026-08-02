@@ -31,17 +31,17 @@ Desarrollada con Vue 3 + Vite + TypeScript. Permite a los clientes explorar serv
 
 ## 📂 Estructura del proyecto
 MyMQueens/
-├── src/
-│   ├── components/     # Componentes reutilizables (Vue + TS)
-│   ├── views/          # Vistas principales de la app
-│   ├── assets/         # Imágenes, estilos globales
-│   └── App.vue         # Componente raíz
-├── public/             # Archivos estáticos
-├── index.html
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-└── README.md
+index.html — Punto de entrada
+src/
+App.vue — Componente raíz
+components/ — Componentes reutilizables (Vue + TS)
+views/ — Vistas principales de la app
+assets/ — Imágenes, estilos globales
+public/ — Archivos estáticos
+package.json — Dependencias y scripts
+tsconfig.json — Configuración de TypeScript
+vite.config.ts — Configuración de Vite
+README.md — Documentación del proyecto
 
 ## 🚀 Cómo ejecutar localmente
 
@@ -84,19 +84,7 @@ npm run dev
 | **Orientación a resultados** | ✅ Es una app funcional, deployada, que resuelve un problema real |
 | **Node.js / React / SQL** | 🚧 En desarrollo — mencionalo en la entrevista |
 
----
 
-## 🔥 Mi recomendación: ¡Agregalo a tu portfolio!
-
-Este proyecto es **mejor que Orange-Blue** para mostrar. Tenés que:
-
-1. **Subir el README** que te di arriba
-2. **Agregar MyMQueens a tu portfolio** como proyecto destacado
-3. **En tu CV**, mencionalo: *"MyMQueens — App web de reservas con Vue 3 + TypeScript + Vite"*
-
----
-
-¿Querés que te arme también el **código HTML para agregar MyMQueens a tu portfolio** como proyecto destacado? 🚀
 
 # Build para producción
 npm run build
