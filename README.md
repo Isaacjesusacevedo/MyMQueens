@@ -30,6 +30,7 @@ Desarrollada con Vue 3 + Vite + TypeScript. Permite a los clientes explorar serv
 ---
 
 ## 📂 Estructura del proyecto
+
 - **MyMQueens/**
   - `index.html` — Punto de entrada
   - **src/**
@@ -43,9 +44,11 @@ Desarrollada con Vue 3 + Vite + TypeScript. Permite a los clientes explorar serv
   - `vite.config.ts` — Configuración de Vite
   - `README.md` — Documentación del proyecto
 
+---
+
 ## 🚀 Cómo ejecutar localmente
 
-bash
+```bash
 # Clonar el repositorio
 git clone https://github.com/Isaacjesusacevedo/MyMQueens.git
 
@@ -55,20 +58,29 @@ cd MyMQueens
 # Instalar dependencias
 npm install
 
+# Modo desarrollo (hot reload)
+npm run dev
+
+# Build para producción
+npm run build
+
 🚧 Próximos pasos
 Estoy ampliando la aplicación hacia el desarrollo full-stack:
 Backend con Node.js + Express — API REST para gestionar turnos, clientes y servicios
 Base de datos SQL Server — Persistencia de reservas, usuarios y disponibilidad horaria
 Autenticación con JWT — Login para clientes y administradores
 Panel de administración — Gestión de turnos, servicios y reportes
+
 📬 Contacto
-Email: isaac.acevedor1610@gmail.com
-Portfolio: isaacjesusacevedo.github.io/Portfolio
-LinkedIn: linkedin.com/in/isaac-acevedo-9a41a4282
+| Canal         | Link                                                                                            |
+| ------------- | ----------------------------------------------------------------------------------------------- |
+| **Email**     | <isaac.acevedor1610@gmail.com>                                                                  |
+| **Portfolio** | [isaacjesusacevedo.github.io/Portfolio](https://isaacjesusacevedo.github.io/Portfolio/)         |
+| **LinkedIn**  | [linkedin.com/in/isaac-acevedo-9a41a4282](https://www.linkedin.com/in/isaac-acevedo-9a41a4282/) |
+| **GitHub**    | [github.com/Isaacjesusacevedo](https://github.com/Isaacjesusacevedo)                            |
 
-
-# Modo desarrollo (hot reload)
-npm run dev
-
-# Build para producción
-npm run build
+<div align="center">
+© Isaac Acevedo — Desarrollador Web Junior
+Hecho con ❤️ y mucho ☕
+</div>
+```
